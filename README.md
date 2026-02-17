@@ -49,4 +49,5 @@ This project was created to practice **DOM manipulation, event handling, and gam
 ## 👤 Author
 
 Luis Munoz
+
 Aspiring Software Developer
