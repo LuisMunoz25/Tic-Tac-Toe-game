@@ -31,7 +31,7 @@ Features include:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/tic-tac-toe.git
+git clone https://github.com/LuisMunoz25/tic-tac-toe.git
 ```
 
 2. Open `index.html` in your browser
